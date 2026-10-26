@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill 发布 GitHub 助手"
+  short_description: "逐步检查自制 Skill，指导补齐缺项并验证 GitHub 上传结果"
+  default_prompt: "请使用 $skill-github-publish 检查我的 Skill，逐关指导我完成准备和 GitHub 上传。"
